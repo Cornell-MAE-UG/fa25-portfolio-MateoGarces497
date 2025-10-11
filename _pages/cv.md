@@ -5,10 +5,10 @@ permalink: /cv/
 ---
 ## Curriculum Vitae
 
-[Download my CV]({{ "/assets/CV.pdf" | relative_url }}) in PDF format.
+[Download my CV]({{ "/assets/Garces_Spring_2025_ResumeV5.pdf" | relative_url }}) in PDF format.
 
 
-**Email:** [netID@cornell.edu](mailto:netID@cornell.edu) | | | **Phone:** +123 456 7890
+**Email:** [mag497@cornell.edu](mailto:mag497@cornell.edu) | | | **Phone:** +1 206 777 5953
 
 ---
 

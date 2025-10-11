@@ -1,6 +1,6 @@
 ---
 layout: project
-title: Mechanical System Optimization Lifting the Maximum Weight to Maximum Height
+title: 2D Lifting Mechanism Project
 description: Optimized Lifting Mechanism Design
 technologies: Pencil and Paper
 image: /assets/images/Diagram.png
@@ -9,7 +9,7 @@ image: /assets/images/Diagram.png
 
 For ENGRD2020: Statics and Mechanics of Solids, we were asked to design a frame/mechanism to lift the maximum possible weight to the highest possible height, given a 2D design space of 150cm long and 50cm tall, a rigid bar of a fixed length, 3 pin supports of which two need to be mounted on the ground, and a linear actuator picked from a manufacturer catalog. This project involved sketching, CAD modeling, and mechanical analysis to create an optimized lifting system. 
 
-The final mechanism design included a rigid 1.5 m lever pinned to the ground at x = 0m, supporting a load 1.5 m away ath the end of the lever. The actuator was pinned to the ground at x = 0.05m and to the lever 0.013 m away from the base. Both the actuator and lever were free to rotate about their bases, creating a system in which the upward moment force from the actuator strictly opposed the moment created by the applied load.
+The final mechanism design included a rigid 1.5 m lever pinned to the ground at x = 0m, supporting a load 1.5 m away at the end of the lever. The actuator was pinned to the ground at x = 0.05m and to the lever 0.013m away from the base. Both the actuator and lever were free to rotate about their bases, creating a system in which the upward moment force from the actuator strictly opposed the moment created by the applied load.
 
 ![Shaded rendering of earlier version]({{ "/assets/images/Tolomatic.jpg" | relative_url }}){: .inline-image-r style="width: 200px"}
 
