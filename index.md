@@ -1,16 +1,16 @@
 ---
 layout: default
-title: <Your Name>
+title: Mateo Garces
 ---
 
 ## About Me
 
 
-![Profile Picture]({{ "assets/images/profile-pic.jpg" | relative_url }}){: class="profile-image"}
+![Profile Picture]({{ "assets/images/Blurry_Headshot.png" | relative_url }}){: class="profile-image"}
 
  
-My name is {{ site.name }}, and I am [your pitch paragraph about your passions, knowledge and interestst.] Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut nec accumsan leo. Pellentesque ornare orci enim, vitae vestibulum nibh rutrum in. Donec pharetra risus nec ipsum fringilla, et mattis tortor auctor. Duis tortor ante, posuere ut odio a, scelerisque interdum purus. Aenean faucibus luctus est, sed bibendum tellus. Nulla et magna urna. Morbi a ipsum sollicitudin, rhoncus risus volutpat, ultricies nunc. Quisque mollis finibus ante id imperdiet. Quisque vehicula elit sit amet felis facilisis fermentum.
+My name is {{ site.name }}, and I am a Mechanical Engineering student at Cornell University. I’m driven by a passion for leveraging strong leadership and collaborative skills to creatively solve complex problems. My goal as an engineer is to apply what I learn to develop practical, sustainable solutions that improve everyday life and strengthen the connection between people and technology.
 
-Aenean tincidunt aliquam arcu, in euismod dui dapibus eu. In placerat, mi et ultrices consequat, quam ligula cursus mauris, in semper neque nibh at est. Maecenas hendrerit dignissim porta. Phasellus nec fringilla dolor. Etiam efficitur nisi sit amet velit pharetra feugiat. Etiam ultrices turpis at leo semper, eleifend scelerisque neque malesuada. Aliquam molestie congue rhoncus. Donec blandit neque dolor, nec tristique mi pretium ac. Mauris tincidunt ullamcorper magna, nec pellentesque mi sagittis quis.
+I’ve gained hands-on experience through design, teaching, and leadership roles. On Cornell University Sustainable Design’s Mechanical Subteam, I contribute to the mechanical and structural development of a biomimetic, modular bus shelter system, focusing on CAD modeling, prototyping, and stakeholder collaboration. As a Teaching Assistant for ENGRI 1170: Introduction to Mechanical Engineering, I help students master core mechanical concepts and problem-solving approaches. These experiences—along with my work in operations management, athletics, and performance arts—have strengthened my teamwork, adaptability, and ability to approach challenges with both creativity and precision.
 
 Take a look at <a href="{{ "/projects/" | relative_url }}">my projects</a> and <a href="{{ "/cv/" | relative_url }}">CV</a>.

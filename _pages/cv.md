@@ -1,6 +1,6 @@
 ---
 layout: default
-title: <Your Name> - Curriculum Vitae
+title: Mateo Garces - Curriculum Vitae
 permalink: /cv/
 ---
 ## Curriculum Vitae

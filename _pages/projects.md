@@ -1,6 +1,6 @@
 ---
 layout: default
-title: <Your Name> - Portfolio
+title: Mateo Garces - Portfolio
 permalink: /projects/
 ---
 
