@@ -4,6 +4,8 @@ title: Heat Exchanger Portfolio Assignment
 description: A thermodynamic analysis of a water–water heat exchanger operating in parallel and counterflow configurations.
 technologies: Heat Exchanger
 image: /assets/images/HXPhoto.png
+permalink: /portfolio/MateoGarces497/thermofluidsystemanalysis/
+
 ---
 
 This project investigates the performance of a double-pipe heat exchanger operating in both parallel flow and counterflow configurations. The device consists of two separate water flow channels, labeled 1→2 and 3→4, through which hot and cold water streams circulate without mixing. The primary goal was to measure inlet and outlet temperatures for both streams under different operating modes and evaluate heat-transfer performance using experimental data.
@@ -14,13 +16,25 @@ Heat transfer occurs between the two fluids through the metal wall separating th
 
 A consolidated table of all experimental data is shown.
 
-![Shaded rendering of earlier version]({{ "/assets/images/HX_Table.png" | relative_url }}){: .inline-image-r style="width: 200px"}
+<hr>
+
+<div style="text-align: center;">
+  <img src="{{ '/assets/images/HX_Table.png' | relative_url }}" 
+       alt="Shaded rendering of earlier version" 
+       style="width: 400px; display: block; margin: 0 auto;">
+</div>
 
 Heat-Transfer Calculations (First Two Experiments)
 
 All heat-transfer values below are expressed per kg of water:
 
-![Shaded rendering of earlier version]({{ "/assets/images/HX_Calcs.png" | relative_url }}){: .inline-image-r style="width: 200px"}
+<hr>
+
+<div style="text-align: center;">
+  <img src="{{ '/assets/images/HX_Calcs.png' | relative_url }}" 
+       alt="Shaded rendering of earlier version" 
+       style="width: 400px; display: block; margin: 0 auto;">
+</div>
 
 These values show that parallel flow transferred significantly less heat than counterflow, confirming theoretical expectations.
 
