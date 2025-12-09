@@ -6,6 +6,16 @@ technologies: Pencil and Paper
 image: /assets/images/Diagram.png
 ---
 
+The goal of this project was to design a planar lifting mechanism that can raise the largest possible weight to the highest possible height within a 150 cm (x) by 50 cm (y) design window. The hardware available was:
+-A rigid bar of fixed length
+-Three pin supports, two of which must be mounted on the ground
+-A linear actuator selected from a manufacturer catalog, using its maximum rated force
+
+The problem reduces to choosing how to place the pins and actuator so that the mechanism: 
+-Fits entirely inside the 150 cm × 50 cm design space
+-Has enough mechanical advantage to lift as large a load as possible.
+
+
 
 For ENGRD2020: Statics and Mechanics of Solids, we were asked to design a frame/mechanism to lift the maximum possible weight to the highest possible height, given a 2D design space of 150cm long and 50cm tall, a rigid bar of a fixed length, 3 pin supports of which two need to be mounted on the ground, and a linear actuator picked from a manufacturer catalog. This project involved sketching, CAD modeling, and mechanical analysis to create an optimized lifting system. 
 
