@@ -80,4 +80,4 @@ Test conveyor belt with an effective sorting system attached to the conveyor
 
 ## Figure
 
-![Figure 1: Proposed inline pneumatic sorting system](images/sorter.png)
+![Figure 1: Proposed inline pneumatic sorting system](../assets/images/sorter.png)
